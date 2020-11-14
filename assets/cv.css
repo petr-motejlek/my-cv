@@ -1,3 +1,7 @@
+body {
+	width: 999px;
+}
+
 .block {
 	display: flex;
 	background: #f5f5f5;
