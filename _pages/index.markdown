@@ -134,7 +134,8 @@ title: Curriculum Vitae
 </div>
 
 - Complex organizational ladders, politics and hierarchy.
-- Thinking of people as ourcesήd thinking they can deliver the best output when working on more than one project.
+- Thinking of people as ourcesήd thinking they can deliver the best output when
+  working on more than one project.
 - Repetitive manual tasks and outgrown historical systems.
 - Incremental (waterfall) development with long release cycles.
 - Waste, both physical (unnecessary paper overuse), as well as process.
@@ -151,36 +152,48 @@ title: Curriculum Vitae
 
 <div>
 
-- Too much to all fit here. There's a lot I know already, and what I don't know, am always willing to learn, if it helps us grow and deliver better solutions.
+- Too much to all fit here. There's a lot I know already, and what I don't know,
+  am always willing to learn, if it helps us grow and deliver better solutions.
 - For those who care, there is a list of random keywords at the bottom.
 
 ### 2019-present: Software Development Engineer at Akamai
 
 * Full-stack development of a feature enablement service that protomoted DevOps culture
   across engineering groups at Akamai.
-* The first version of the product that allowed running an A/B test on Akamai's platform done in 2 weeks.
-* I particularly enjoyed the vision of being able to directly enable developers of features to enable them also.
-* Combination of Python, GraphQL (Graphene), PostgreSQL, TypeScript, Vue+Vuetify.
+* The first version of the product that allowed running an A/B test on Akamai's
+  platform done in 2 weeks.
+* I particularly enjoyed the vision of being able to directly enable developers
+  of features to enable them also.
+* Combination of __Python__, __GraphQL__ (__Graphene__), __PostgreSQL__,
+  __TypeScript__, __Vue+Vuetify__.
 
 ### 2015-2019: Engineering Manager at Akamai
 
 * Lead 8+ engineers spread across two scrum teams.
-* Besides servant-leading, being involved in one team as a scrum master, also ran an agile evangelization group within the organization.
-* Daily experience with Scrum, Kanban, JIRA.
-* Created, hosted and contributed regularly to several in-house knowledge sharing sessions and online spaces.
+* Besides __servant-leading__, being involved in one team as a scrum master, also
+  __ran an agile evangelization group__ within Akamai.
+* Daily experience with __Scrum__, __Kanban__, __JIRA__.
+* Created, hosted and contributed regularly to several in-house __knowledge
+  sharing sessions__ and online spaces.
 
 ### 2014-2015: Lead Software Development Engineer in Test at Akamai
 
 * Lead a team of 5+ engineers. Still participated in the team day to day work as contributor.
-* Daily use of Git, TypeScript, Python and Java (Android development) when writing a headless tool (interface) for testing of a multi-platform network-protocol library.
+* Daily use of __Git__, __TypeScript__, __Python__ and __Java__ (Android development)
+  when writing a headless tool (interface) for testing of a multi-platform
+  network-protocol library.
 
 ### 2013-2014: Software Development Engineer in Test at Akamai
 
-* Work revolving around manual and automated testing of software (dealing with web-related protocols, such as HTTPS, TCP, UDP, etc).
-	* Experience with functional, white box, system and acceptance testing.
-	* Design of test cases based on requirement specifications, design documents and communication with the development team.
-	* Daily usage of Linux, Wireshark, tcpdump, Bugzilla, Perforce, etc.
-	* Heavy scripting in Bash and Python.
+* Work revolving around manual and automated testing of software (dealing with
+  web-related protocols, such as __HTTPS__, __TCP__, __UDP__, etc).
+	* Experience with __functional__, __white box__, __system__ and __acceptance
+          testing__.
+	* Design of test cases based on requirement specifications, design
+          documents and communication with the development team.
+	* Daily usage of __Linux__, __Wireshark__, __tcpdump__, __Bugzilla__,
+          __Perforce__, etc.
+	* Heavy scripting in __Bash__ and __Python__.
 
 ### 2012-2013: Solution Integration Engineer at Gemalto
 
