@@ -48,13 +48,13 @@ title: Curriculum Vitae
 
 - __15+ years of experience__ spanning software development for a plethora
   of platforms, network administration and maintenance, full stack web
-  development, single machine setups as well as clusters. I also have
+  and application development, single machine setups as well as clusters. I also have
   experience talking to customers, and am able to proficiently understand
   their problems and propose appropriate solutions.  
 - Very __quick learner__, preferring __diving deep__, rather than
   superficial understanding.
 - Knowledge about __multiple different programming languages and paradigms__
-  (currently, my favorites are __TypeScript__, __OOP__, __TDD__ and __DDD__
+  (currently, my favorites are __TypeScript__ (both NodeJS and browser), __OOP__, __TDD__ and __DDD__
   with a sprinkle of __functional programming__).
 - I __truly enjoy this field__, and always do my best to get better at it.
 - Live in Prague, Czech Republic.
@@ -220,7 +220,7 @@ title: Curriculum Vitae
 
 ### Keywords
 
-In no particular order: PHP, Netty, Dibi, Doctrine, Pascal, Delphi, PL/SQL, SQL, Perl, Java, JavaScript, TypeScript, GraphQL, Vue, Vuetify, Python, Bash, Powershell, Linux, Windows, MacOS, Kubernetes, Rancher, Docker, Ansible, PostgreSQL, IntelliJ, VS Code, Git, Garden, Skaffold, Helm, Terraform, HTML, CSS, HTTPS, SSL, Scrum, Kanban, agile, TDD, OO, DDD, functional programming, AWS, Azure, ...
+In no particular order: PHP, Netty, Dibi, Doctrine, Pascal, Delphi, PL/SQL, SQL, Perl, Java, JavaScript (NodeJS and browser), TypeScript, GraphQL, Vue, Vuetify, Python, Bash, Powershell, Linux, Windows, MacOS, Kubernetes, Rancher, Docker, Ansible, PostgreSQL, IntelliJ, VS Code, Git, Garden, Skaffold, Helm, Terraform, HTML, CSS, HTTPS, SSL, Scrum, Kanban, agile, TDD, OO, DDD, functional programming, AWS, Azure, ...
 
 </div>
 
