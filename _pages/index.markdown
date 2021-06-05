@@ -156,7 +156,14 @@ title: Curriculum Vitae
   am always willing to learn, if it helps us grow and deliver better solutions.
 - For those who care, there is a list of random keywords at the bottom.
 
-### 2019-present: Software Development Engineer at Akamai
+### 2021-present: Full Stack Developer at Pipedrive
+	
+* Full-stack development of one of Pipedrive parts, leads (we enable our customers to 
+better acquire new leads through chatbots, webforms, ...).
+* The stack is TypeScript+NodeJS microservice on the backend and TypeScript+React on
+  the frontend, both running on top of Kubernetes.
+	
+### 2019-2020: Software Development Engineer at Akamai
 
 * Full-stack development of a feature enablement service that protomoted DevOps culture
   across engineering groups at Akamai.
