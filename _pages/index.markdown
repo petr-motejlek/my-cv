@@ -76,8 +76,6 @@ title: Curriculum Vitae
 - Move more into __functional programming with persistent data structures__
   (__Elm__, __Rust__, __Clojure__ or its derivatives, perhaps; but most
   languages do somehow support this paradigm too).
-- Would prefer (probably always will) a __collocated team__, but will
-  experiment with remote too.
 - The job could involve consultancy (partially or fully) work too.
 - I prefer __full-time employment__ to contract work.
 
@@ -109,14 +107,10 @@ title: Curriculum Vitae
 - __Sharing__ what I know with others (verbally, through lectures, by
   compiling [knowledge bases](https://bit.ly/my-knowledge-base)).
 - __Learning__ more and more.
-- __Working as a team__, rather than an individual or a group of individuals.
-  - Pair and/or mob programming.
 - Drive for __continuously inspecting and adapting__ on all levels of the
   organization.
 - __Flat organization__ with high-performing teams organized around projects
   with full support, responsibility and accountability.
-- I prefer __face to face conversations__, however understand that right now,
-  that's not really possible.
 - Experience with __leading teams__ (empowering them to work better and better,
   while developing team members), some experience with being a Product Owner
   and Scrum Master, however prefer being a highly engaged member of a development
