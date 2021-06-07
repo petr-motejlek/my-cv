@@ -55,7 +55,8 @@ title: Curriculum Vitae
   superficial understanding.
 - Knowledge about __multiple different programming languages and paradigms__
   (currently, my favorites are __TypeScript__ (both NodeJS and browser), __OOP__, __TDD__ and __DDD__
-  with a sprinkle of __functional programming__).
+  with a sprinkle of __functional programming__), as well as __operationalization__,
+  __deployment__, __monitoring__ and __backup__ solutions and strategies, botn __on-prem__ and __in-cloud__.
 - I __truly enjoy this field__, and always do my best to get better at it.
 - Live in Prague, Czech Republic.
 
@@ -69,13 +70,20 @@ title: Curriculum Vitae
 
 </div>
 
-- Develop a product through which we can make a __direct impact on our
-  customers__ and their users.
-- Could involve infrastructure as well, either as the platform for
-  delivering/running the product, or be the product by itself.
-- Move more into __functional programming with persistent data structures__
-  (__Elm__, __Rust__, __Clojure__ or its derivatives, perhaps; but most
-  languages do somehow support this paradigm too).
+- __Move into__ an __infrastructure/operationalization role__, rather
+  than focus on pure development. I have always enjoyed operationalizing
+  the software I write, and have done so on all my side projects. As
+  an _institutionalized developer_, though, I do not get to do this as much,
+  as the infrastrucutre is usually laid out before us, and we can only
+  really use it, or add small extensions to it. I'd like to be part
+  of creating the infrastructure and making sure it works well for
+  all its users.
+- Can work in an __on-prem__ setting, __in-cloud__ setting or any hybrid, 
+  if need be. Migrations in between tare always interesting.
+- I prefer __infrastructure as code__ and am profficient in several
+  tools and practices (_Terraform_ and _Ansible_ are my favorite)
+  with good DevOps support (such as service mesh architecture for
+  microservices).
 - The job could involve consultancy (partially or fully) work too.
 - I prefer __full-time employment__ to contract work.
 
