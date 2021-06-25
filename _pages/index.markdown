@@ -84,7 +84,7 @@ title: Curriculum Vitae
   tools and practices (_Terraform_ and _Ansible_ are my favorite)
   with good DevOps support (such as service mesh architecture for
   microservices).
-- I prefer a __mostly-remote-work__ (home-office) mode, with the ability
+- I prefer a __remote-first work__ (home-office) mode, with the ability
   to go to the ofice in person, as needed.
 - The job could involve consultancy (partially or fully) work too.
 - I prefer __full-time employment__ to contract work.
