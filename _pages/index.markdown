@@ -87,7 +87,6 @@ title: Curriculum Vitae
 - I prefer a __remote-first work__ (home-office) mode, with the ability
   to go to the ofice in person, as needed.
 - The job could involve consultancy (partially or fully) work too.
-- I prefer __full-time employment__ to contract work.
 
 </div>
 
