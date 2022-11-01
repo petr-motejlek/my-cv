@@ -159,7 +159,14 @@ title: Curriculum Vitae
   am always willing to learn, if it helps us grow and deliver better solutions.
 - For those who care, there is a list of random keywords at the bottom.
 
-### 2021-present: Full Stack Developer at Pipedrive
+### 2021-present: DevOps Engineer at Trustsoft
+
+* DevOps enginner/architect, mainly focused on helping our clients migrate their on-prem
+  solutions into Amazon Web Services' public cloud, no matter the shape or size.
+* Daily use of __Terraform__, __Ansible__, __GitOps__, __AWS__,
+  __microservices__ (AWS ECS/EKS or EC2 w/ k8s), __Graphana__.
+
+### 2021-2021: Full Stack Developer at Pipedrive
 	
 * Full-stack development of one of Pipedrive parts, leads (we enable our customers to 
 better acquire new leads through chatbots, webforms, ...).
