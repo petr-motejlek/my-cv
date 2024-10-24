@@ -166,6 +166,68 @@ title: Curriculum Vitae
 * Daily use of __Terraform__, __Ansible__, __GitOps__, __AWS__,
   __microservices__ (AWS ECS/EKS or EC2 w/ k8s), __Graphana__.
 
+#### Project: Migration of a job-portal company into AWS
+
+* Help our customer migrate from on-prem into AWS by being part of their
+platform infrastructure team -- other internal teams utilizing our tools to
+migrate their applications into AWS.
+* Stack:
+  * AWS RDS for PostgreSQL and AWS Aurora for PostgreSQL
+  * ...
+  * deployed and managed via AWS CDK (in TypeScript)
+
+#### Project: Migration of a watch and jewelry maker into AWS
+
+* Help our customer design, build and maintain a global environment in AWS,
+moving all their on-prem workloads there.
+* Customer wanted for their staff to learn from us; a big part of our
+responsibility was to teach them along the way. I personally taught their
+network team to use Terraform and Terragrunt w/ AWS services.
+* Stack:
+  * AWS Control Tower
+  * AWS Transit Gateway (multi-region)
+    * inter-connecting 10's of accounts
+    * Next Generation Firewall for east-west and north-south inspection
+    * shared egress and ingress (utilizing an SDWAN solution)
+  * deployed and managed via Terragrunt&Terraform thru GitHub Actions
+
+#### Project: Migration of a bank into AWS
+
+* Help our customer migrate from on-prem into AWS by being part of their
+tooling team -- other internal teams utilizing our tools to migrate their
+applications into AWS.
+* Stack:
+    * AWS CloudFormation, includign Serverless extensions and Macros
+    * AWS Service Catalog
+    * deployment of the stacks orchestrated by an internally developed tool
+
+#### Project: Migration of card-payment provider into AWS
+
+* Migrate our customer's on-prem card-payment solution from on-prem into AWS
+(including design and architecture of the new solution).
+* Stack:
+  * AWS Transit Gateway, Site-to-Site VPNs, ...
+  * AWS ECS w/ Fargate and EC2 instances
+  * AWS Aurora for PostgreSQL
+  * custom EC2 tooling around HAProxy and StrongSwan to facilitate
+  special-needs VPNs
+  * deployed and managed via Terraform
+
+#### Project: Migration of card-payment provider's database into AWS
+
+* Migrate our customer's on-prem Oracle database into AWS-hosted PostgreSQL, w/
+double-region high-availability. Teach our customer's staff how to operate the
+solution.
+* Stack:
+  * AWS Schema Conversion Tool
+  * AWS Database Migration Service
+  * AWS RDS for Oracle
+  * AWS RDS for PostgreSQL
+    * using `pglogical`, `pg_partman`, `pg_cron`, ...
+  * multiple custom `plpgsql` scripts to clean up the resulting schema created
+  by AWS Schema Conversion Tool
+  * deployed and managed via Terraform
+
 ### 2021-2021: Full Stack Developer at Pipedrive
 	
 * Full-stack development of one of Pipedrive parts, leads (we enable our customers to 
