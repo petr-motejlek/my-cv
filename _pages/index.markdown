@@ -72,7 +72,7 @@ title: Curriculum Vitae
   - If you are there already, I can __help you get better at it__.
 - If you need (help) __writing infrastructure as code__, I can assist.
 - If you are out of ideas, __I can come up with them__; or I can let you bounce
-  them off me, __give you feedback__, and we can improve them together.
+  them off me, __give you feedback__, and we can __improve them together__.
 - I can do __proof-of-concept work__ for you, either in your environment, or in
   my own.
 - I can __teach you what I know__.
