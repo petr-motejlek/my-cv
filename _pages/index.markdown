@@ -30,9 +30,8 @@ title: Curriculum Vitae
 </div>
 
 - [What I&nbsp;Am Offering](#offering)
-- [What Next Challenge I&nbsp;Am Looking For](#next-challenge)
+- [What I&nbsp;Can Help You With](#next-challenge)
 - [I&nbsp;Enjoy Doing, Know About and Am Highly Motivated By](#enjoy-doing)
-- [I&nbsp;Dislike and Get Demotivated By](#dislike)
 - [Professional History](#professional-history)
 
 
@@ -46,7 +45,7 @@ title: Curriculum Vitae
 
 </div>
 
-- __15+ years of experience__ spanning software development for a plethora
+- __18+ years of experience__ spanning software development for a plethora
   of platforms, network administration and maintenance, full stack web
   and application development, single machine setups as well as clusters and clouds.
   I also have experience talking to customers, and am able to proficiently understand
@@ -58,7 +57,6 @@ title: Curriculum Vitae
   with a sprinkle of __functional programming__), as well as __automated operationalization__,
   __deployment__, __monitoring__ and __backup__ solutions and strategies, both __on-prem__ and __in-cloud__.
 - I __truly enjoy this field__, and always do my best to get better at it.
-- Live in Prague, Czech Republic.
 
 </div>
 
@@ -66,27 +64,20 @@ title: Curriculum Vitae
 
 <div class="block-head">
 
-## What Next Challenge I&nbsp;Am Looking For {#next-challenge}
+## What I&nbsp;Can Help You With {#next-challenge}
 
 </div>
 
-- __Move into__ an __infrastructure/operationalization role__, rather
-  than focus on pure development. I have always enjoyed operationalizing
-  the software I write, and have done so on all my side projects. As
-  an _institutionalized developer_, though, I do not get to do this as much,
-  as the infrastrucutre is usually laid out before us, and we can only
-  really use it, or add small extensions to it. I'd like to be part
-  of creating the infrastructure and making sure it works well for
-  all its users.
-- Can work in an __on-prem__ setting, __in-cloud__ setting or any hybrid, 
-  if need be. Migrations in between are always interesting.
-- I prefer __infrastructure as code__ and am profficient in several
-  tools and practices (_Terraform_ and _Ansible_ are my favorite)
-  with good DevOps support (such as service mesh architecture for
-  microservices).
-- I prefer a __remote-first work__ (home-office) mode, with the ability
-  to go to the ofice in person, as needed.
-- The job could involve consultancy (partially or fully) work too.
+- __Help you move into the cloud__.
+  - If you are there already, I can __help you get better at it__.
+- If you need (help) __writing infrastructure as code__, I can assist.
+- If you are out of ideas, __I can come up with them__; or I can let you bounce
+  them off me, __give you feedback__, and we can improve them together.
+- I can do __proof-of-concept work__ for you, either in your environment, or in
+  my own.
+- I can __teach you what I know__.
+- No matter the size or scope of the project, let's get in touch. __I am
+  certain I can help__.
 
 </div>
 
@@ -124,24 +115,8 @@ title: Curriculum Vitae
   while developing team members), some experience with being a Product Owner
   and Scrum Master, however prefer being a highly engaged member of a development
   team.
-- Like to travel.
-
-</div>
-
-<div class="block">
-
-<div class="block-head">
-
-## I&nbsp;Dislike and Get Demotivated By {#dislike}
-
-</div>
-
-- Complex organizational ladders, politics and hierarchy.
-- Thinking of people as ourcesήd thinking they can deliver the best output when
-  working on more than one project.
-- Repetitive manual tasks and outgrown historical systems.
-- Incremental (waterfall) development with long release cycles.
-- Waste, both physical (unnecessary paper overuse), as well as process.
+- I prefer a __remote-first work__ (home-office) mode, with the ability
+  to go to the ofice in person, as needed.
 
 </div>
 
@@ -173,6 +148,7 @@ platform infrastructure team -- other internal teams utilizing our tools to
 migrate their applications into AWS.
 * Stack:
   * AWS RDS for PostgreSQL and AWS Aurora for PostgreSQL
+  * AWS Transit Gateway and friends
   * ...
   * deployed and managed via AWS CDK (in TypeScript)
 
@@ -296,6 +272,10 @@ better acquire new leads through chatbots, webforms, ...).
 	- Experience with full-stack development of web applications using PHP (Nette, Dibi, etc).
 - Created and maintained an e-commerce site for wholesale business partners.
 	- Experience with full-stack development of web applications using PHP (Nette, Dibi, etc).
+
+### Certifications
+
+[My Credly Profile Page](https://www.credly.com/users/petr-motejlek/edit)
 
 ### Keywords
 
