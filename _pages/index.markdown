@@ -275,7 +275,7 @@ better acquire new leads through chatbots, webforms, ...).
 
 ### Certifications
 
-[My Credly Profile Page](https://www.credly.com/users/petr-motejlek/edit)
+[My Credly Profile Page](https://www.credly.com/users/petr-motejlek)
 
 ### Keywords
 
